@@ -4,7 +4,7 @@ This project focuses on the analysis and forecasting of monthly time series data
 
 ### Result Forecast
 
-|  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| Transport Type | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | Cruise | 35,980 | 45,519 | 37,150 | 23,661 | 15,872 | 5,822 | 1,556 | 5,418 | 4,685 | 12,352 | 13,296 | 52,545 |
 | Road | 209,122 | 241,728 | 208,624 | 245,873 | 258,564 | 198,332 | 225,048 | 106,637 | 240,188 | 260,548 | 120,800 | 319,164 |
@@ -18,7 +18,7 @@ The dataset includes the following columns:
 - **Cruise**: Number of tourists arriving by cruise ships.
 - **Road**: Number of tourists entering via land borders.
 - **Aviation**: Number of tourists arriving by air.
-- **All**: Total number of tourists (sum of all modes).
+- **Total**: Total number of tourists (sum of all modes).
 
 ### Objective:
 The primary objective of this project is to gain deeper insights into tourism trends over time. The project employs both descriptive and inferential statistical analyses to examine the data and draw meaningful conclusions.
