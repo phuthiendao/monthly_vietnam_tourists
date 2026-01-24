@@ -1,6 +1,6 @@
 # Monthly Vietnam Tourists Analysis and Forecasting
 
-This project focuses on the analysis and forecasting of monthly time series data on the number of international tourists arriving in Vietnam from 2013 to 2024. The dataset spans from January 2013 to December 2024 and includes four main columns representing different modes of entry. The data is sourced from the Vietnam National Authority of Tourism website: [Vietnam National Authority of Tourism](https://vietnamtourism.gov.vn/statistic/international).
+This project focuses on the analysis and forecasting of monthly time series data on the number of international tourists arriving in Vietnam from 2013 to 2025. The dataset spans from January 2013 to December 2025 and includes four main columns representing different modes of entry. The data is sourced from the Vietnam National Authority of Tourism website: [Vietnam National Authority of Tourism](https://vietnamtourism.gov.vn/statistic/international).
 
 ### Result Forecast
 
@@ -31,7 +31,7 @@ To ensure data quality and model performance, several preprocessing techniques a
 - **Outliers Detection**: Outliers are identified and addressed to avoid skewed results.
 
 ### Time Series Forecasting:
-Various time series forecasting models, such as ARIMA, Exponential Smoothing are implemented to predict monthly tourist arrivals for the year 2025. The predictions are segmented by each mode of entry (Cruise, Road, Aviation).
+Various time series forecasting models, such as ARIMA, Exponential Smoothing are implemented to predict monthly tourist arrivals for the year 2026. The predictions are segmented by each mode of entry (Cruise, Road, Aviation).
 
 ### Insights and Applications:
 The results of this analysis can provide valuable insights for stakeholders in the tourism industry, including:
@@ -40,7 +40,7 @@ The results of this analysis can provide valuable insights for stakeholders in t
 - **Tourism Development**: Identifying high-demand months and regions to focus development efforts.
 - **Marketing Strategies**: Assisting in the design of targeted marketing campaigns based on predicted trends.
 
-By forecasting tourism trends for 2025, this project can contribute to better decision-making in tourism planning and development in Vietnam.
+By forecasting tourism trends for 2026, this project can contribute to better decision-making in tourism planning and development in Vietnam.
 
 ### Tools and Libraries Used:
 - **Python**: For data analysis and model implementation.
