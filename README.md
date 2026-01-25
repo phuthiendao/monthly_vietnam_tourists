@@ -2,14 +2,15 @@
 
 This project focuses on the analysis and forecasting of monthly time series data on the number of international tourists arriving in Vietnam from 2013 to 2025. The dataset spans from January 2013 to December 2025 and includes four main columns representing different modes of entry. The data is sourced from the Vietnam National Authority of Tourism website: [Vietnam National Authority of Tourism](https://vietnamtourism.gov.vn/statistic/international).
 
-### Result Forecast
+### Result Forecast 2026
 
 | Transport Type | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Cruise | 35,980 | 45,519 | 37,150 | 23,661 | 15,872 | 5,822 | 1,556 | 5,418 | 4,685 | 12,352 | 13,296 | 52,545 |
-| Road | 209,122 | 241,728 | 208,624 | 245,873 | 258,564 | 198,332 | 225,048 | 106,637 | 240,188 | 260,548 | 120,800 | 319,164 |
+| Cruise | 35,980 | 45,519 | 37,150 | 23,661 | 15,872 | 5,822 | 1,556 | 5,418 | 4,685 | 12,352 | 26,926 | 52,545 |
+| Road | 209,122 | 241,728 | 208,624 | 245,873 | 258,564 | 198,332 | 225,048 | 240,899 | 240,188 | 260,548 | 324,686 | 319,164 |
 | Aviation | 1,848,221 | 1,794,729 | 1,769,647 | 1,482,531 | 1,345,973 | 1,203,876 | 1,370,295 | 1,597,402 | 1,433,248 | 1,493,216 | 1,703,247 | 1,766,018 |
 | Total | 2,093,322 | 2,081,976 | 2,015,421 | 1,752,065 | 1,620,408 | 1,408,030 | 1,596,898 | 1,843,719 | 1,678,122 | 1,766,117 | 2,054,859 | 2,137,727 |
+
 
 
 ### Data Description:
